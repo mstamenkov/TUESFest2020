@@ -1,0 +1,100 @@
+int starts=1;
+unsigned long time_stop;
+unsigned long heater_start;
+//voltmeter//
+int analogInput = 0;
+float vout = 0.0;
+float vin = 0.0;
+float R1 = 12000.0; // resistance of R1 (12K)
+float R2 = 4700.0; // resistance of R2 (4.7K)
+int value = 0;
+int started = 0;
+
+void setup()
+{
+  pinMode(6, INPUT);
+  pinMode(8, INPUT);
+  pinMode(3, OUTPUT);
+  digitalWrite(3, HIGH);
+  pinMode(4, OUTPUT); //starter
+  digitalWrite(4,HIGH);
+  pinMode(10, OUTPUT); //kontakt
+  digitalWrite(10,HIGH); 
+  pinMode(11, INPUT); //alternator lamp
+  pinMode(13,OUTPUT); //for test purposes
+  digitalWrite(13,HIGH);
+  pinMode(A0,INPUT); //voltmeter input
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  Serial.println
+  (digitalRead(11));
+  if(digitalRead(8) == HIGH /*heater_start <= millis() */){
+    digitalWrite(3, LOW);
+  }else{
+    digitalWrite(3, HIGH);
+  }
+   if(digitalRead(6) == LOW){
+    Serial.println("\nstopped");
+    digitalWrite(10,HIGH);
+    digitalWrite(4,HIGH);
+    started = 0;
+    delay(1000);
+  }else if(started == 0){
+    if(digitalRead(6) == HIGH){
+        digitalWrite(10,LOW); //kontakt
+        delay(1000);
+        engine_start();
+      }
+  }
+ 
+  
+}
+
+float voltmeter()
+{
+    value = analogRead(A0);
+    vout = (value * 5.0) / 1024.0;
+    vin = vout / (R2/(R1+R2)); 
+    if (vin<0.09){
+        vin=0.0;//statement to quash undesired reading !
+    }
+  return vin;
+}
+
+void engine_start(){
+          Serial.print("\nEngine_start");
+          Serial.print(digitalRead(11));
+
+          //if(digitalRead(12) == HIGH){
+          
+          //do{
+           // digitalWrite(4,LOW);
+             //started = 1;
+          //}while(digitalRead(12) == HIGH);
+          //digitalWrite(4,LOW);
+          //delay(1000);
+          digitalWrite(4,LOW);
+          while(1){
+            if(digitalRead(11) == LOW){
+               Serial.print("\nstarted");
+
+              started = 1;
+              digitalWrite(4,HIGH);
+              heater_start = millis() + 10000;
+              break;
+            }
+            /*if(digitalRead(5) == LOW){
+              Serial.println("\nstopped");
+              digitalWrite(10,HIGH);
+              started = 0;
+              delay(100);
+            }
+            */
+
+          }
+          
+        //}
+}
