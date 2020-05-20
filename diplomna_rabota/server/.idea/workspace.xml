@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfcd5018-13dc-448f-93d5-c470ed227049" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WRbopOjmyGJaDsujYAOtE7bsC9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql.8&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="register.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/server/register.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.register.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfcd5018-13dc-448f-93d5-c470ed227049" name="Default Changelist" comment="" />
+      <created>1579115531855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579115531855</updated>
+      <workItem from="1579115534453" duration="629000" />
+      <workItem from="1579116188469" duration="1442000" />
+      <workItem from="1579117696771" duration="5000" />
+      <workItem from="1579117748096" duration="260000" />
+      <workItem from="1579118077645" duration="573000" />
+      <workItem from="1579118944801" duration="1824000" />
+      <workItem from="1579127456424" duration="3846000" />
+      <workItem from="1579131342819" duration="32000" />
+      <workItem from="1580387003506" duration="24000" />
+      <workItem from="1580387307783" duration="140000" />
+      <workItem from="1580387913819" duration="1756000" />
+      <workItem from="1580389946059" duration="3833000" />
+      <workItem from="1580394268413" duration="3822000" />
+      <workItem from="1580399363209" duration="120000" />
+      <workItem from="1580464796726" duration="3085000" />
+      <workItem from="1580468593839" duration="423000" />
+      <workItem from="1580471517745" duration="5464000" />
+      <workItem from="1580504363914" duration="2758000" />
+      <workItem from="1580664166217" duration="2726000" />
+      <workItem from="1580728111116" duration="3955000" />
+      <workItem from="1580734650328" duration="407000" />
+      <workItem from="1581405648375" duration="704000" />
+      <workItem from="1581584056208" duration="34000" />
+      <workItem from="1581584176492" duration="164000" />
+      <workItem from="1581584527992" duration="1237000" />
+      <workItem from="1582190203113" duration="2171000" />
+      <workItem from="1582197576207" duration="1809000" />
+      <workItem from="1582215075190" duration="744000" />
+      <workItem from="1582548762606" duration="4683000" />
+      <workItem from="1582577147878" duration="2890000" />
+      <workItem from="1582639818876" duration="8545000" />
+      <workItem from="1582714557260" duration="111000" />
+      <workItem from="1582714738001" duration="3982000" />
+      <workItem from="1582730359137" duration="9707000" />
+      <workItem from="1582740103243" duration="3662000" />
+      <workItem from="1582747714914" duration="15000" />
+      <workItem from="1582751129526" duration="33000" />
+      <workItem from="1582751214967" duration="2130000" />
+      <workItem from="1582757113390" duration="7015000" />
+      <workItem from="1582839727566" duration="4436000" />
+      <workItem from="1582877622251" duration="2289000" />
+      <workItem from="1582886621512" duration="2412000" />
+      <workItem from="1582984789357" duration="1115000" />
+      <workItem from="1582998247633" duration="3350000" />
+      <workItem from="1583004262828" duration="58000" />
+      <workItem from="1583319487983" duration="619000" />
+      <workItem from="1583397819411" duration="57000" />
+      <workItem from="1584131722889" duration="2476000" />
+      <workItem from="1584145181651" duration="2103000" />
+      <workItem from="1584203321187" duration="619000" />
+      <workItem from="1584695720636" duration="283000" />
+      <workItem from="1585291971889" duration="764000" />
+      <workItem from="1589879994853" duration="384000" />
+      <workItem from="1589881003587" duration="39000" />
+      <workItem from="1589881067383" duration="63000" />
+      <workItem from="1589881165257" duration="4866000" />
+      <workItem from="1589888670700" duration="247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="376" y="123" width="800" height="677" key="#SQL_Dialects" timestamp="1581585195095">
+      <screen x="67" y="27" width="1213" height="773" />
+    </state>
+    <state x="376" y="123" width="800" height="677" key="#SQL_Dialects/67.27.1213.773@67.27.1213.773" timestamp="1581585195095" />
+    <state x="592" y="201" key="#SQL_Resolution_Scopes" timestamp="1582577476070">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="592" y="201" key="#SQL_Resolution_Scopes/65.24.1855.1056@65.24.1855.1056" timestamp="1582577476070" />
+    <state x="522" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582840131794">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="522" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1582840131794" />
+    <state x="507" y="191" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589880361012">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="507" y="191" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1589880361012" />
+    <state x="356" y="149" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1213.773@67.27.1213.773" timestamp="1581584077354" />
+    <state x="516" y="205" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583397872499">
+      <screen x="67" y="27" width="1213" height="773" />
+    </state>
+    <state x="516" y="205" width="424" height="484" key="FileChooserDialogImpl/67.27.1213.773@67.27.1213.773" timestamp="1583397872499" />
+    <state width="1245" height="337" key="GridCell.Tab.0.bottom" timestamp="1582840153209">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1245" height="337" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1582840153209" />
+    <state width="1245" height="337" key="GridCell.Tab.0.center" timestamp="1582840153208">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1245" height="337" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1582840153208" />
+    <state width="1245" height="337" key="GridCell.Tab.0.left" timestamp="1582840153208">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1245" height="337" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1582840153208" />
+    <state width="1245" height="337" key="GridCell.Tab.0.right" timestamp="1582840153209">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1245" height="337" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1582840153209" />
+    <state width="200" height="482" key="SqlResolveConfigurable" timestamp="1582577470029">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="200" height="482" key="SqlResolveConfigurable/65.24.1855.1056@65.24.1855.1056" timestamp="1582577470029" />
+    <state x="164" y="96" width="1657" height="885" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589881802057">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="164" y="96" width="1657" height="885" key="com.intellij.history.integration.ui.views.FileHistoryDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1589881802057" />
+    <state x="582" y="331" key="com.intellij.ide.util.TipDialog" timestamp="1585291972969">
+      <screen x="65" y="24" width="1632" height="944" />
+    </state>
+    <state x="405" y="247" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1583004263123" />
+    <state x="582" y="331" key="com.intellij.ide.util.TipDialog/65.24.1632.944@65.24.1632.944" timestamp="1585291972969" />
+    <state x="582" y="331" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1582839758322" />
+    <state x="277" y="240" width="1372" height="559" key="new project wizard" timestamp="1585293005375">
+      <screen x="65" y="24" width="1632" height="944" />
+    </state>
+    <state x="277" y="240" width="1372" height="559" key="new project wizard/65.24.1632.944@65.24.1632.944" timestamp="1585293005375" />
+  </component>
+</project>
